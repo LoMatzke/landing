@@ -1,0 +1,19 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+.card {
+  width: 200px;
+  font-size: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px 20px;
+}
+
+.card p {
+font-size: 16px}
+
+.card i {
+  font-size: 50px;
+}

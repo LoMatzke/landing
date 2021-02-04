@@ -1,0 +1,22 @@
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/background_gym.jpg");
+  padding: 150px 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  color: white;
+  text-align: left;
+  padding-left: 15%;
+}
+
+.hero-text h1 {
+  font-size: 40px;
+}
+
+.hero-text p {
+  font-size: 25px;
+  padding-bottom: 25px;
+}
